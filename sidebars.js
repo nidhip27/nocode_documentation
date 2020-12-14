@@ -1,7 +1,9 @@
 module.exports = {
   someSidebar: {
-    Basics: ["doc1", "doc4", "doc5"],
-    "Admin Dashboard": ["doc2", "doc7"],
+    "Account Basics": ["doc1", "creating-an-account", "signing-into-storylens", ],
+    "Dashboard": ["creating-a-new-project", "doc2", "adding-a-new-page"],
     Builder: ["doc3", "doc6"],
   },
 };
+
+
